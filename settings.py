@@ -1,0 +1,2 @@
+token = "iy12498712984787"
+DEBUG = True
